@@ -5,27 +5,15 @@ hasjs: 1
 ---
 
 
-# THIS IS A1
+<header class="mainheader">
+          <h1>KNB HOMES</h1>
+          <h2>Home Construction</h2>
+          <div class="but">
+               <button><a href="/about">About Us</a></button>
+          </div>
+          
+</header>
 
-This is a page that I made with eleventy. Or is it 11ty? I don't know.
-
-## ON GOD!
-
-**for rreeeaaaallllllll**
-
-
-
-
-
-## Pros
-- fast
-- safe
-- pretty
-
-
-## Cons
-- weirdly complicated
-- silly
-- goofy
-
-Git is weird and hard on frozen IMD Machines.
+<div class=logo>
+     <img src="css/images/Kirk Logo White.png" alt="">
+</div>
